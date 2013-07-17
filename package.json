@@ -1,0 +1,24 @@
+{
+  "name": "hot-dependencies",
+  "types": ["module"],
+  "version": "1.4",
+  "homepage": "http://github.com/shinken-monitoring/mod-hot-dependencies",
+  "author": "Jean Gabès",
+  "description": "Will look at a source (file or other) hostdependencies and will update Shinken data with it. Use for example with VMWare with VMotion support",
+  "contributors": [
+    {
+      "name": "Jean Gabès",
+      "email": "naparuba@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/shinken-monitoring/mod-hot-dependencies",
+  "keywords": [
+    "module",
+    "arbiter",
+    "dependencies"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
