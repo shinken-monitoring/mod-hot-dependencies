@@ -1,7 +1,7 @@
 {
   "name": "hot-dependencies",
   "types": ["module"],
-  "version": "1.4.1",
+  "version": "1.4.2",
   "homepage": "http://github.com/shinken-monitoring/mod-hot-dependencies",
   "author": "Jean Gabès",
   "description": "Will look at a source (file or other) hostdependencies and will update Shinken data with it. Use for example with VMWare with VMotion support",
